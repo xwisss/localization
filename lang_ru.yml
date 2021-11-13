@@ -42,7 +42,7 @@ FIND_MESSAGE: '§c§lWARDIX §8| %player% §fнаходится на серве�
 MONEY_MESSAGE: '§c§lWARDIX §8| §fВаш баланс: §e%money% §fи §c%golds%'
 PING_YOURSELF_MESSAGE: '§c§lWARDIX §8| §fВаш пинг §a%ping% §fms'
 PING_OTHER_MESSAGE: '§c§lWARDIX §8| §fПинг игрока %player% §f- §a%ping% §fms'
-
+STAFF_CHAT_FORMAT: '§c§lWARDIX §8| §c/sc <текст>!'
 # Welcome messages
 WELCOME_MESSAGE:
   - ''
