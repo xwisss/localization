@@ -20,6 +20,7 @@ UNREGISTER_USAGE: '§c§lWARDIX §8| §fИспользуйте - §c/unregister 
 UNREGISTER_SUCCESS: '§c§lWARDIX §8| §fВы успешно разрегистрировали игрока'
 PASSWORD_NOT_VALID: '§c§lWARDIX §8| §cОшибка, Выбранный пароль короткий, либо слишком длинный'
 PASSWORD_NOT_MATCH: '§c§lWARDIX §8| §cОшибка, указанные пароли не совпадают!'
+DONATE_MENU_MAIN_TITLE: 'Меню донатера'
 ACCOUNT_NOT_LINKED_VK:
   - ''
   - '§c§l⚠ Внимание! §fУ Вас не привязана страница §bВКонтакте §fк своему аккаунту.'
