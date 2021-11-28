@@ -1113,24 +1113,24 @@ STICK_FIGHT_BOARDS_END_LINES:
   - '§cwww.wardix.net'
 
 # SkyWars messages.
-SKYWARS_PLAYER_JOIN: '§c§lSkyWars §8| {player} §fприсоединился к игре §7({online}/{max})'
-SKYWARS_PLAYER_QUIT: '§c§lSkyWars §8| {player} §fвышел из игры §7({online}/{max})'
-SKYWARS_PLAYER_TIMER_TICK: '§c§lSkyWars §8| §fИгра начнется через §e{time} сек.'
+SKYWARS_PLAYER_JOIN: '§8[§6SkyWars§8] {player} §fприсоединился к игре §7({online}/{max})'
+SKYWARS_PLAYER_QUIT: '§8[§6SkyWars§8] {player} §fвышел из игры §7({online}/{max})'
+SKYWARS_PLAYER_TIMER_TICK: '§8[§6SkyWars§8] §fИгра начнется через §e{time} сек.'
 
 SKYWARS_BOUGHT_ITEM_NO_ENOUGH_MONEY: '§cОшибка, у Вас недостаточно средств для покупки данного предмета!'
 SKYWARS_BOUGHT_ITEM_SUCCESS_BUY: '§aВы успешно купили §e{item_name}'
 
-SKYWARS_PLAYER_DEATH_CAUSE_SUICIDE: '§c§lSkyWars §8| {player} §fумер от суецида'
-SKYWARS_PLAYER_DEATH_CAUSE_PROJECTILE: '§c§lSkyWars §8| {player} §fбыл застрелен'
-SKYWARS_PLAYER_DEATH_CAUSE_FALL: '§c§lSkyWars §8| {player} §fразбился насмерть'
-SKYWARS_PLAYER_DEATH_CAUSE_LAVA: '§c§lSkyWars §8| {player} §fсгорел заживо'
-SKYWARS_PLAYER_DEATH_CAUSE_FIRE: '§c§lSkyWars §8| {player} §fсгорел заживо'
-SKYWARS_PLAYER_DEATH_CAUSE_FIRE_TICK: '§c§lSkyWars §8| {player} §fсгорел заживо'
-SKYWARS_PLAYER_DEATH_CAUSE_MAGIC: '§c§lSkyWars §8| {player} §fбыл убит при помощи магии'
-SKYWARS_PLAYER_DEATH_CAUSE_WITCH: '§c§lSkyWars §8| {player} §fбыл убит при помощи магии'
-SKYWARS_PLAYER_DEATH_CAUSE_ENTITY_ATTACK: '§c§lSkyWars §8| {killer} §fубил {player}'
-SKYWARS_PLAYER_DEATH_CAUSE_VOID: '§c§lSkyWars §8| {player} §fупал в бездну'
-SKYWARS_PLAYER_DEATH_CAUSE_CUSTOM: '§c§lSkyWars §8| {player} §fумер не известной смертью'
+SKYWARS_PLAYER_DEATH_CAUSE_SUICIDE: '§8[§6SkyWars§8] {player} §fумер от суецида'
+SKYWARS_PLAYER_DEATH_CAUSE_PROJECTILE: '§8[§6SkyWars§8] {player} §fбыл застрелен'
+SKYWARS_PLAYER_DEATH_CAUSE_FALL: '§8[§6SkyWars§8] {player} §fразбился насмерть'
+SKYWARS_PLAYER_DEATH_CAUSE_LAVA: '§8[§6SkyWars§8] {player} §fсгорел заживо'
+SKYWARS_PLAYER_DEATH_CAUSE_FIRE: '§8[§6SkyWars§8] {player} §fсгорел заживо'
+SKYWARS_PLAYER_DEATH_CAUSE_FIRE_TICK: '§8[§6SkyWars§8] {player} §fсгорел заживо'
+SKYWARS_PLAYER_DEATH_CAUSE_MAGIC: '§8[§6SkyWars§8] {player} §fбыл убит при помощи магии'
+SKYWARS_PLAYER_DEATH_CAUSE_WITCH: '§8[§6SkyWars§8] {player} §fбыл убит при помощи магии'
+SKYWARS_PLAYER_DEATH_CAUSE_ENTITY_ATTACK: '§8[§6SkyWars§8] {killer} §fубил {player}'
+SKYWARS_PLAYER_DEATH_CAUSE_VOID: '§8[§6SkyWars§8] {player} §fупал в бездну'
+SKYWARS_PLAYER_DEATH_CAUSE_CUSTOM: '§8[§6SkyWars§8] {player} §fумер не известной смертью'
 
 SKYWARS_PVP_ACTIVE: '§aPVP активировано, теперь можно лутать сундуки'
 
