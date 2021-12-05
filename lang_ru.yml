@@ -1188,7 +1188,7 @@ SKYWARS_BOARDS_WAITING_LINES:
   - 'До начала игры:'
   - '§e%game_status'
   - '§3'
-  - '§cwww.wardix.net'
+  - '§ewww.wardix.net'
 SKYWARS_BOARDS_GAME_NAME:
   - '§c§lSkyWars'
 SKYWARS_BOARDS_GAME_LINES:
@@ -1197,15 +1197,11 @@ SKYWARS_BOARDS_GAME_LINES:
   - 'Убийств: §a%kills'
   - '§1'
   - 'Игроков осталось: §a%players§f/§c%max'
-  - 'Наблюдателей: §a%spectators'
   - '§2'
   - 'Карта: §a%map'
   - 'Режим: §c%mode'
   - '§3'
-  - 'Игроков в §e20 §fблоках от Вас:'
-  - '§a%near_players игроков'
-  - '§4'
-  - '§cwww.wardix.net'
+  - '§ewww.wardix.net'
 SKYWARS_BOARDS_END_NAME:
   - '§c§lSkyWars'
 SKYWARS_BOARDS_END_LINES:
@@ -1214,7 +1210,7 @@ SKYWARS_BOARDS_END_LINES:
   - 'Победители:'
   - '%winners'
   - '§2'
-  - '§cwww.wardix.net'
+  - '§ewww.wardix.net'
 
 #SkyWars kits messages.
 SKYWARS_KITS_DEFAULT_NAME: 'Стандартный'
